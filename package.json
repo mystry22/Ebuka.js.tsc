@@ -1,0 +1,25 @@
+{
+  "name": "ebuka.js.tsc",
+  "version": "1.0.0",
+  "description": "node js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystry22/Ebuka.js.tsc.git"
+  },
+  "author": "Ebuka.js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystry22/Ebuka.js.tsc/issues"
+  },
+  "homepage": "https://github.com/mystry22/Ebuka.js.tsc#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
